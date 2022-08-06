@@ -1,0 +1,7 @@
+header {
+    flex-direction: column;
+}
+
+.container.img {
+    flex-direction: row;
+}
